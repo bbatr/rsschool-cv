@@ -9,7 +9,8 @@ For more than 6 months, I plunged into the world of programming. This is a very 
 I don't have much experience in programming, but I have a great desire to learn and devote my life to this matter.  
 
 #### Skils
-* Some knowledge of Html5/Css3 (more than 6 months) and Adobe Photoshop.
+* Some knowledge of Html5/Css3 (more than 6 months).
+* Some knowledge of Adobe Photoshop.
 
 #### Code examples
 
